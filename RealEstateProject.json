@@ -138,6 +138,53 @@
     ]
   },
   {
+    "name": "Dream's Paradise",
+    "phase": "ongoing",
+    "address": "Modhubazar, West Dhanmondi",
+    "apartmentSize": "1550 SFT",
+    "landArea": "7.5 Katha",
+    "floors": "G+8",
+    "apartments": "3",
+    "bedroom": "3",
+    "bathroom": "2",
+    "collection": "Luxury",
+    "CompletionDate": "December 2024",
+    "type1": "residential",
+    "location": "dhanmondi",
+    "id": "Dreams-Paradise",
+    "numberId": 1,
+    "img": "https://i.ibb.co/zNZH97B/g7-Owx-Cd-3.jpg",
+    "slideimg": "https://i.ibb.co/zNZH97B/g7-Owx-Cd-3.jpg",
+    "description": "Mak Inno Group represents our most iconic project in Dhaka's most popular google_locations. With our bold and innovative designs, quality construction, and luxury finishing materials, we can guarantee that Dream's Paradise Project will completely transform your urban lifestyle.",
+    "google_location": "https://www.google.com/maps/place/Dream's+Paradise/@23.7478859,90.3665256,17z/data=!3m1!4b1!4m6!3m5!1s0x3755bf8fd7c21069:0x84754fab75376e0f!8m2!3d23.7478859!4d90.3665256!16s%2Fg%2F11rf7l6hcg?entry=ttu",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.985796618464!2d90.3665256!3d23.7478859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bf8fd7c21069%3A0x84754fab75376e0f!2sDream's%20Paradise!5e0!3m2!1sen!2sbd!4v1727610901281!5m2!1sen!2sbd",
+    "insideImage1": "https://i.imgur.com/kEdoovI.jpg",
+    "insideImage2": "https://i.imgur.com/64bJDrN.jpg",
+    "slideshow": [
+      "https://i.ibb.co/zNZH97B/g7-Owx-Cd-3.jpg",
+      "https://i.ibb.co/rt7HpTC/Dhanmondi-Perspective-1.jpg",
+      "https://i.ibb.co/k67f5pR/2642362-1.jpg"
+    ],
+    "keyFeatures": [
+      {
+        "feature": "Scenic Beauty",
+        "description": "The land offers breathtaking views of rolling hills, lush meadows, and serene lakes, making it an ideal setting for nature enthusiasts and those looking for tranquility."
+      },
+      {
+        "feature": "Customization",
+        "description": "Each plot of land is generously sized and allows for customization to meet your unique lifestyle and architectural preferences."
+      },
+      {
+        "feature": "Amenities",
+        "description": "The project includes plans for state-of-the-art amenities, including walking trails, a community clubhouse, and recreational areas for residents and guests."
+      },
+      {
+        "feature": "Proximity to Services",
+        "description": "is conveniently located near schools, hospitals, shopping centers, and major transportation routes, ensuring easy access to essential services."
+      }
+    ]
+  },
+  {
     "name": "Nishorgo Valley",
     "phase": "ongoing",
     "type1": "residential",
